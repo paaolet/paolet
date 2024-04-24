@@ -1,4 +1,4 @@
-Olá! Meu nome é Paola Souza, sou uma programadora iniciante em busca de um estágio para colocar em prática meus conhecimentos na programação.
+Olá! Meu nome é Paola Souza, sou uma programadora iniciante.
 
 -📚 Cursando ensino médio com  técnico em informática no Colégio Técnico Antônio Teixeira Fernandes (Colégio Univap)
 
