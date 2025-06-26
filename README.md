@@ -1,8 +1,8 @@
-Olá! Meu nome é Paola Souza, sou uma programadora iniciante.
+Hi, my name is Paola Souza, I'm a programmer.
 
--📚 Cursando ensino médio com  técnico em informática no Colégio Técnico Antônio Teixeira Fernandes (Colégio Univap)
+-📚 Attending high school with a computer technician at Colégio Técnico Antônio Teixeira Fernandes (Univap College).
 
--📫 Contate-me pelo email: paolasouzakroll@gmail.com
+-📫 Contact me by email: paolasouzakroll@gmail.com
 
 -📑 Linkedin:https: //www.linkedin.com/in/paolasouzaa
 <div>
